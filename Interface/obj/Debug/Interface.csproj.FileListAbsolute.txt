@@ -6,3 +6,11 @@ C:\Users\jonjo\Desktop\AWS\Lesson-3\Interface\obj\Debug\Interface.csproj.Suggest
 C:\Users\jonjo\Desktop\AWS\Lesson-3\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
 C:\Users\jonjo\Desktop\AWS\Lesson-3\Interface\obj\Debug\Interface.exe
 C:\Users\jonjo\Desktop\AWS\Lesson-3\Interface\obj\Debug\Interface.pdb
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\bin\Debug\Interface.exe.config
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\bin\Debug\Interface.exe
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\bin\Debug\Interface.pdb
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\obj\Debug\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\obj\Debug\Interface.exe
+C:\Users\jonjo\Desktop\AWS\Lesson-4\Interface\obj\Debug\Interface.pdb
